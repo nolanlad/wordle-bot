@@ -2,7 +2,7 @@
 A python script that can always solve the nyt wordle game
 
 Usage
-`
+```
 usage: Wordle Solver [-h] [--y1 [Y1 [Y1 ...]]] [--y2 [Y2 [Y2 ...]]]
                      [--y3 [Y3 [Y3 ...]]] [--y4 [Y4 [Y4 ...]]]
                      [--y5 [Y5 [Y5 ...]]] [--g1 G1] [--g2 G2] [--g3 G3]
@@ -25,4 +25,4 @@ optional arguments:
   --bad BAD           string of letters not contained in the word
   -l                  Flag to list possible solutions
   -g                  Calculate best next move
-`
+```
